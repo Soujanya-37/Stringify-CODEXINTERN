@@ -3,7 +3,7 @@
 # 🎲 Stringify - Secure Random String & Password Generator
 A modern, feature-rich web application for generating secure random strings and complex passwords, built with React and Tailwind CSS. This project was developed as a key deliverable for the codeXintern Front-End Development internship program.
 
-# ✨ Features
+## ✨ Features
 ### 🚀 Core Generation
 Customizable Length: Tailor the output by specifying the exact string length (from 4 to 50 characters).
 
