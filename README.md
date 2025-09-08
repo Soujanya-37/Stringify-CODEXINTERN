@@ -129,4 +129,4 @@ This project was developed as a requirement for the codeXintern internship progr
 ### 📞 Support
 If you encounter any issues or have questions, please create an issue on this repository's GitHub page.
 
-Built with #### ❤️ by Soujanya Shanbhag for the codeXintern Front-End Development Program.
+Built with #### ❤️ by Soujanya Shanbhag for the CODEXINTERN Front-End Development Program.
